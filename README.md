@@ -30,3 +30,5 @@ $ ruby http_server.rb
 としてサーバーを起動してからブラウザで http://localhost:5678 にアクセスすると以下のような画面が表示されます。
 
 ![lobster](https://user-images.githubusercontent.com/39555429/55663818-9e72bb00-585e-11e9-8505-f774b07add86.JPG)
+
+"flip!"をクリックしてロブスターの向きを変えたり、"crash!"をクリックしてエラーを起こすことが出来ます。
